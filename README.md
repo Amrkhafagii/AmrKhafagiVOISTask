@@ -8,5 +8,6 @@
 
 # work summary:
 # used intellij IDE
-# used data driven, used json intestDataFiles folder in resources
+# used data driven, used json in testDataFiles folder in resources
 # upgrade project using SHAFT engine
+# run from RunMe.xml
