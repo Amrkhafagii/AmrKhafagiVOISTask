@@ -1,0 +1,8 @@
+
+################################################################################################################################################
+Starting Execution:	[7 out of 11] test cases in the current suite
+Test Method:		[scenarios.addNewLocation.updateNewLocation]
+################################################################################################################################################
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "src/test/resources/testDataFiles/locations.json"]. @17-01-2022 21:13:26.0178 PM
+[ReportManager] Successfully loaded the following test data file [src/test/resources/testDataFiles/locations.json]. @17-01-2022 21:13:26.0179 PM
+[ReportManager] Successfully created attachment [Test Data - JSON] @17-01-2022 21:13:26.0180 PM

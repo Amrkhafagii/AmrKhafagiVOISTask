@@ -1,0 +1,14 @@
+
+################################################################################################################################################
+Starting Execution:	[4 out of 11] test cases in the current suite
+Test Method:		[scenarios.AuthNewUser.authenticateAsNewAdmin]
+################################################################################################################################################
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "src/test/resources/testDataFiles/loginInfo.json"]. @17-01-2022 21:12:32.0739 PM
+[ReportManager] Successfully loaded the following test data file [src/test/resources/testDataFiles/loginInfo.json]. @17-01-2022 21:12:32.0740 PM
+[ReportManager] Successfully created attachment [Test Data - JSON] @17-01-2022 21:12:32.0742 PM
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "src/test/resources/testDataFiles/loginInfo.json"]. @17-01-2022 21:12:46.0834 PM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20220117-211128", Target File: "\1642446767707_authenticateAsNewAdmin.gif"]. @17-01-2022 21:12:47.0755 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [aaa@aaa.com]. @17-01-2022 21:12:48.0093 PM
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "src/test/resources/testDataFiles/loginInfo.json"]. @17-01-2022 21:12:48.0093 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [123456789]. @17-01-2022 21:12:48.0798 PM
+[ReportManager] Successfully created attachment [Animated Gif - authenticateAsNewAdmin] @17-01-2022 21:12:48.0876 PM

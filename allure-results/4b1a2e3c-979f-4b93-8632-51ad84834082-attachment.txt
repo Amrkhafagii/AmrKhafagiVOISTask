@@ -1,0 +1,20 @@
+
+################################################################################################################################################
+Starting Execution:	[2 out of 11] test cases in the current suite
+Test Method:		[scenarios.login.createNewAdmin]
+################################################################################################################################################
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "src/test/resources/testDataFiles/adminInfo.json"]. @17-01-2022 21:11:44.0260 PM
+[ReportManager] Successfully loaded the following test data file [src/test/resources/testDataFiles/adminInfo.json]. @17-01-2022 21:11:44.0261 PM
+[ReportManager] Successfully created attachment [Test Data - JSON] @17-01-2022 21:11:44.0275 PM
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "src/test/resources/testDataFiles/adminInfo.json"]. @17-01-2022 21:11:54.0689 PM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20220117-211128", Target File: "\1642446715364_createNewAdmin.gif"]. @17-01-2022 21:11:55.0427 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [aaa]. @17-01-2022 21:11:55.0787 PM
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "src/test/resources/testDataFiles/adminInfo.json"]. @17-01-2022 21:11:55.0787 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [aaa]. @17-01-2022 21:11:56.0330 PM
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "src/test/resources/testDataFiles/adminInfo.json"]. @17-01-2022 21:11:56.0339 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [aaa@aaa.com]. @17-01-2022 21:11:57.0298 PM
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "src/test/resources/testDataFiles/adminInfo.json"]. @17-01-2022 21:11:57.0298 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [123456789]. @17-01-2022 21:11:57.0905 PM
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "src/test/resources/testDataFiles/adminInfo.json"]. @17-01-2022 21:11:57.0906 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [01023256589]. @17-01-2022 21:11:58.0492 PM
+[ReportManager] Successfully created attachment [Animated Gif - createNewAdmin] @17-01-2022 21:12:01.0621 PM

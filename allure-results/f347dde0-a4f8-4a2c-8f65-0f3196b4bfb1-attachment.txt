@@ -1,0 +1,12 @@
+
+################################################################################################################################################
+Starting Execution:	[6 out of 11] test cases in the current suite
+Test Method:		[scenarios.addNewLocation.add_verifyNewLocation]
+################################################################################################################################################
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "src/test/resources/testDataFiles/locations.json"]. @17-01-2022 21:13:12.0308 PM
+[ReportManager] Successfully loaded the following test data file [src/test/resources/testDataFiles/locations.json]. @17-01-2022 21:13:12.0309 PM
+[ReportManager] Successfully created attachment [Test Data - JSON] @17-01-2022 21:13:12.0310 PM
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "src/test/resources/testDataFiles/locations.json"]. @17-01-2022 21:13:22.0367 PM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20220117-211128", Target File: "\1642446803397_add_verifyNewLocation.gif"]. @17-01-2022 21:13:23.0472 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [egy]. @17-01-2022 21:13:23.0895 PM
+[ReportManager] Successfully created attachment [Animated Gif - add_verifyNewLocation] @17-01-2022 21:13:26.0138 PM

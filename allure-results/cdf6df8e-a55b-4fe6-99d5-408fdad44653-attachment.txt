@@ -1,0 +1,14 @@
+
+################################################################################################################################################
+Starting Execution:	[1 out of 11] test cases in the current suite
+Test Method:		[scenarios.login.authenticateAsDefaultAdmin]
+################################################################################################################################################
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "src/test/resources/testDataFiles/loginInfo.json"]. @17-01-2022 21:11:29.0092 PM
+[ReportManager] Successfully loaded the following test data file [src/test/resources/testDataFiles/loginInfo.json]. @17-01-2022 21:11:29.0093 PM
+[ReportManager] Successfully created attachment [Test Data - JSON] @17-01-2022 21:11:29.0528 PM
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "src/test/resources/testDataFiles/loginInfo.json"]. @17-01-2022 21:11:39.0736 PM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20220117-211128", Target File: "\1642446702135_authenticateAsDefaultAdmin.gif"]. @17-01-2022 21:11:42.0531 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [admin@phptravels.com]. @17-01-2022 21:11:43.0348 PM
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "src/test/resources/testDataFiles/loginInfo.json"]. @17-01-2022 21:11:43.0349 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [demoadmin]. @17-01-2022 21:11:43.0961 PM
+[ReportManager] Successfully created attachment [Animated Gif - authenticateAsDefaultAdmin] @17-01-2022 21:11:44.0044 PM
