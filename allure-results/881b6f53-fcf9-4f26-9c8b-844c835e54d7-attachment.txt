@@ -1,8 +1,0 @@
-
-################################################################################################################################################
-Starting Execution:	[1 out of 8] test cases in the current suite
-Test Method:		[cases.login.authenticateAsDefaultAdmin]
-################################################################################################################################################
-[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "src/test/resources/testDataFiles/loginInfo.json"]. @15-01-2022 12:13:18.0258 PM
-[ReportManager] Successfully loaded the following test data file [src/test/resources/testDataFiles/loginInfo.json]. @15-01-2022 12:13:18.0260 PM
-[ReportManager] Successfully created attachment [Test Data - JSON] @15-01-2022 12:13:18.0930 PM

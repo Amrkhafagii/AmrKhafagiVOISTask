@@ -42,8 +42,6 @@ public class addAdminScreen {
         ElementActions.type(driver, email_label, json.getTestData("email_label"));
         ElementActions.type(driver, password_label, json.getTestData("password_label"));
         ElementActions.type(driver, mobile_label, json.getTestData("mobile_label"));
-
-
         //error div rather than select
         Select dropd = new Select(driver.findElement(country_label));
         dropd.selectByValue("EG");
@@ -51,8 +49,7 @@ public class addAdminScreen {
 
     }
 
-    public void updateAdmin() throws InterruptedException {
-//Thread.sleep(10000);
+    public void updateAdmin()  {
 
         WebDriverWait wait = new WebDriverWait(driver, 30);
         wait.until(ExpectedConditions.invisibilityOfElementWithText(notiAlert, alertText));
@@ -60,8 +57,6 @@ public class addAdminScreen {
         at.sendKeys(Keys.PAGE_DOWN).build().perform();
         wait.until(ExpectedConditions.elementToBeClickable(addLocation_check)).click();
         //wait.until(ExpectedConditions.invisibilityOfElementWithText(notiAlert,"Changes Saved!"));
-
-
         //driver.findElement(addLocation_check).click();
         //driver.findElement(editLocation_check).click();
         wait.until(ExpectedConditions.elementToBeClickable(editLocation_check)).click();

@@ -32,9 +32,8 @@ public class addLocationScreen {
         // driver.findElement(country_label).sendKeys("egypt");
        // driver.findElement(location_label).sendKeys("egy");
         ElementActions.type(driver, location_label, json.getTestData("location_label[0]"));
-
-        driver.findElement(longtitude_label).sendKeys("longtitude_label[0]");
-        driver.findElement(latitude_label).sendKeys("latitude_label[0]");
+        ElementActions.type(driver, longtitude_label, json.getTestData("longtitude_label[0]"));
+        ElementActions.type(driver, latitude_label, json.getTestData("latitude_label[0]"));
         driver.findElement(submit_btn).click();
     }
 
@@ -43,9 +42,9 @@ public class addLocationScreen {
         Select dropd = new Select(driver.findElement(country_label));
         dropd.selectByValue(countrySelect);
         // driver.findElement(country_label).sendKeys("egypt");
-        driver.findElement(location_label).sendKeys("location_label[1]");
-        driver.findElement(longtitude_label).sendKeys("longtitude_label[1]");
-        driver.findElement(latitude_label).sendKeys("latitude_label[1]");
+        ElementActions.type(driver, location_label, json.getTestData("location_label[1]"));
+        ElementActions.type(driver, longtitude_label, json.getTestData("longtitude_label[1]"));
+        ElementActions.type(driver, latitude_label, json.getTestData("latitude_label[1]"));
         driver.findElement(submit_btn).click();
     }
 }

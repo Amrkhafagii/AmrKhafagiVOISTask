@@ -5,6 +5,8 @@ import org.openqa.selenium.Dimension;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.BeforeMethod;
+import screens.*;
 
 public class testannotations {
 
@@ -17,7 +19,6 @@ public class testannotations {
         driver = DriverFactory.getDriver();
         driver.manage().window().setSize(new Dimension(1024, 768));
 
-
     }
 
     @AfterClass
@@ -25,4 +26,6 @@ public class testannotations {
 
         DriverFactory.closeAllDrivers();
     }
+
+
 }

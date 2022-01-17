@@ -4,10 +4,11 @@
 
 	<test name="loginFirstTime">
 		<classes>
-			<class name="cases.login" />
-			<class name="cases.AuthNewUser" />
-			<class name="cases.addNewLocation" />
-			<class name="cases.deleteLocation" />
+			<class name="scenarios.login" />
+			<class name="scenarios.AuthNewUser" />
+			<class name="scenarios.addNewLocation" />
+			<class name="scenarios.deleteLocation" />
+			<class name="scenarios.restClass" />
 		</classes>
 	</test>
 	

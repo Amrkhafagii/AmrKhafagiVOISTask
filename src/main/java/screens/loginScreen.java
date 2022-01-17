@@ -12,8 +12,8 @@ public class loginScreen {
     WebDriver driver;
     JSONFileManager json = new JSONFileManager(System.getProperty("testDataFolderPath") + "loginInfo.json");
 
-    By emailLabel = By.xpath("//input[@name='email']");
-    By passwordLabel = By.xpath("//input[@name='password']");
+    By emailLabel = By.xpath("//div[@class='mb-2']//input[@name='email']");
+    By passwordLabel = By.xpath("//div[@class='mb-2']//input[@name='password']");
     By login_btn = By.xpath("//button[@type='submit']");
 
 
